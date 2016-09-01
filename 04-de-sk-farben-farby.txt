@@ -1,0 +1,13 @@
+farba = die Farbe
+farby = die Farben
+čierna = schwarz
+biela = weiß
+modrá = blau
+červená = rot
+zelená = grün
+žltá = gelb
+hnedá = braun
+sivá = grau
+oranžová = orange
+ružová = rosa
+fialová = lila

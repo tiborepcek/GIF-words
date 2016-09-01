@@ -1,0 +1,15 @@
+číslo = die Zahl
+čísla = die Zahlen
+nula = null
+jeden = eins
+dva = zwei
+tri = drei
+štyri = vier
+päť = fünf
+šesť = sechs
+sedem = sieben
+osem = acht
+deväť = neun
+desať = zehn
+jedenásť = elf
+dvanásť = zwölf
