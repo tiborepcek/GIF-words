@@ -7,7 +7,7 @@ Web: http://tiborepcek.com/gif-words/
 #NoTrayIcon
 #include <File.au3>
 
-$fileRead = "04-de-sk-farben-farby.txt" ;súbor, z ktorého sa berie slovná zásoba (UTF bez BOM)
+$fileRead = "01-de-sk-zahlen-cisla.txt" ;súbor, z ktorého sa berie slovná zásoba (UTF bez BOM)
 $fileWrite = $fileRead & ".bat" ;dávkový súbor, ktorý vytvorí pohyblivý GIF obrázok
 $imgSize = "480x320" ;rozmer obrázku
 $imgGravity = "center" ;zarovnanie textu na obrázku
