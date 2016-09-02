@@ -6,6 +6,7 @@ Pohyblivé GIF obrázky, na ktorých sa každé 3 sekundy strieda slovo v dvoch 
 
 1. [ImageMagic](http://imagemagick.org/)
 2. [AutoIt](https://autoitscript.com/) (na Linuxe cez [Wine](https://winehq.org/))
+3. Vo Windowse nastav font príkazového riadku (cmd.exe) na *Lucida Console* (kvôli UTF-8).
 
 ## Ako to funguje
 
