@@ -1,7 +1,7 @@
 ﻿#cs
 gif-words 1.0 (skript napísaný v AutoIt 3)
 Autor: Tibor Repček
-Web: http://tiborepcek.com/gif-words/
+Web: https://github.com/tiborepcek/GIF-words/
 #ce
 
 #NoTrayIcon
