@@ -1,0 +1,9 @@
+ziehen = 
+fallen = 
+verlassen = 
+laufen = 
+gewinnen = 
+entscheiden = 
+tragen = 
+übernehmen = 
+helfen = 

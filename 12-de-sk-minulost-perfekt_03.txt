@@ -1,0 +1,10 @@
+bringen = 
+wissen = 
+scheinen = 
+bekommen = 
+bestehen = 
+bieten = 
+beginnen = 
+verlieren = 
+sprechen = 
+mögen = 
