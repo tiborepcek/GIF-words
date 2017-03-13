@@ -1,0 +1,7 @@
+sein = byť (existovať)
+ich bin = ja som
+du bist = ty si
+er/sie/es ist = on/ona/ono je
+wir sind = my sme
+ihr seid = vy ste
+sie/Sie sind = oni sú

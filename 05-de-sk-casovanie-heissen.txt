@@ -1,7 +1,0 @@
-heißen = volať sa
-ich heiße = ja sa volám
-du heißt = ty sa voláš
-er/sie/es heißt = on/ona/ono sa volá
-wir heißen = my sa voláme
-ihr heißt = vy sa voláte
-sie/Sie heißen = oni sa volajú

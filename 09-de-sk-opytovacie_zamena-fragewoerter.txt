@@ -1,7 +1,0 @@
-wer = kto
-was = čo
-wo = kde
-wie = ako
-wieviel = koľko
-wann = kedy
-warum; wieso = prečo
