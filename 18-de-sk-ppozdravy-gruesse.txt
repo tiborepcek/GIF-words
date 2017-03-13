@@ -1,0 +1,7 @@
+Guten Morgen = dobré ráno
+Guten Tag = dobrý deň
+Guten Abend = dobrý večer
+Gute Nacht = dobrú noc
+Auf Wiedersehen = dovidenia
+Hallo = ahoj (privítanie)
+Tschüss = ahoj (lúčenie)
