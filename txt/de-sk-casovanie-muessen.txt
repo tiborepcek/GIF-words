@@ -1,0 +1,7 @@
+müssen = musieť (povinnosť, nutnosť)
+ich muss = ja musím
+du musst = ty musíš
+er/sie/es muss = on/ona/ono musí
+wir müssen = my musíme
+ihr müsst = vy musíte
+sie/Sie müssen = oni musia

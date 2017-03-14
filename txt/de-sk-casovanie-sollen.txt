@@ -1,0 +1,7 @@
+sollen = mať povinnosť
+ich soll = ja by som mal
+du sollst = ty by si mal
+er/sie/es soll = on/ona/ono by mal
+wir sollen = my by sme mali
+ihr sollst = vy by ste mali
+sie/Sie sollen = oni by mali

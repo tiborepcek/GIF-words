@@ -1,4 +1,4 @@
-möchten = chcieť
+möchten = chcieť (želanie)
 ich möchte = ja chcem
 du möchtest = ty chceš
 er/sie/es möchte = on/ona/ono chce

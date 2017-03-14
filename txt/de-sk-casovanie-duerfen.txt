@@ -1,0 +1,7 @@
+dürfen = smieť (dovolenie, zákaz)
+ich darf = ja smiem
+du darfst = ty smieš
+er/sie/es darf = on/ona/ono smie
+wir dürfen = my smieme
+ihr dürft = vy smiete
+sie/Sie dürfen = oni smú
