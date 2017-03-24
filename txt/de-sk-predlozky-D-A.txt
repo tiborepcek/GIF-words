@@ -1,0 +1,11 @@
+predložka = die Präposition
+predložky = die Präpositionen
+an = na (zvisle)
+auf = na (vodorovne)
+in = v, do
+vor = pred
+hinter = za
+über = nad
+unter = pod
+zwischen = medzi
+neben = vedľa

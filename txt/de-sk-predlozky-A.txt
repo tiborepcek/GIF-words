@@ -1,0 +1,7 @@
+predložka = die Präposition
+predložky = die Präpositionen
+durch = cez, za
+für = pre, za
+ohne = bez
+gegen = proti, okolo
+um = o, okolo

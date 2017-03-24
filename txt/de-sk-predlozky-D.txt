@@ -1,0 +1,8 @@
+predložka = die Präposition
+predložky = die Präpositionen
+aus = z, zo
+bei = pri
+mit = s, so
+nach = po, do, podľa
+von = o, od
+zu = k, ku, na
