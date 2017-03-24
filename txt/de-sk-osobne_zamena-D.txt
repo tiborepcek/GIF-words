@@ -1,0 +1,10 @@
+osobné zámeno (D) = das Personalpronomen
+osobné zámená = die Personalpronomen
+mir = mne
+dir = tebe
+ihm = jemu
+ihr = jej
+ihm = jemu
+uns = nám
+euch = vám
+ihnen/Ihnen = im/Vám

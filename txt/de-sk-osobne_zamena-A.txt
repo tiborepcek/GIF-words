@@ -1,0 +1,10 @@
+osobné zámeno (A) = das Personalpronomen
+osobné zámená = die Personalpronomen
+mich = mňa
+dich = teba
+ihn = jeho
+sie = ju
+es = jeho
+uns = nás
+euch = vás
+sie/Sie = ich/Vás

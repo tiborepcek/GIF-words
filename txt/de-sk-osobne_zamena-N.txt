@@ -1,0 +1,10 @@
+osobné zámeno (N) = das Personalpronomen
+osobné zámená = die Personalpronomen
+ich = ja
+du = ty
+er = on
+sie = ona
+es = ono
+wir = my
+ihr = vy
+sie/Sie = oni/Vy
