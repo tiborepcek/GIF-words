@@ -1,4 +1,4 @@
-predložka = die Präposition
+predložka (DA) = die Präposition (DA)
 predložky = die Präpositionen
 an = na (zvisle)
 auf = na (vodorovne)

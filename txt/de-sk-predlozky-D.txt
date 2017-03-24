@@ -1,4 +1,4 @@
-predložka = die Präposition
+predložka (D) = die Präposition (D)
 predložky = die Präpositionen
 aus = z, zo
 bei = pri

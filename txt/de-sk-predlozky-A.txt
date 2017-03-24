@@ -1,4 +1,4 @@
-predložka = die Präposition
+predložka (A) = die Präposition (A)
 predložky = die Präpositionen
 durch = cez, za
 für = pre, za
