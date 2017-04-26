@@ -1,0 +1,10 @@
+﻿zvratné zámeno (D) = das Reflexivpronomen
+zvratné zámená = die Reflexivpronomen
+ich > mir = ja > si
+du > dir = ty > si
+er > sich = on > si
+sie > sich = ona > si
+es > sich = ono > si
+wir > uns = my > si
+ihr > euch = vy > si
+sie/Sie > sich = ich/Vás > si
