@@ -1,0 +1,10 @@
+﻿zvratné zámeno (A) = das Reflexivpronomen
+zvratné zámená = die Reflexivpronomen
+ich > mich = ja > sa
+du > dich = ty > sa
+er > sich = on > sa
+sie > sich = ona > sa
+es > sich = ono > sa
+wir > uns = my > sa
+ihr > euch = vy > sa
+sie/Sie > sich = ich/Vás > sa
