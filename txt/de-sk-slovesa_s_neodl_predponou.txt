@@ -1,0 +1,8 @@
+besuchen = navštíviť
+gefallen = páčiť sa
+empfehlen = odporučiť
+entkommen = uniknúť, ujsť
+erfinden = vynájsť, vymyslieť si
+missbrauchen = zneužiť
+verstehen = (po)rozumieť, počuť
+zerreißen = roztrhnúť, roztrhať
