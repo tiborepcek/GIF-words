@@ -1,0 +1,10 @@
+anmachen (Licht) = zapnúť (svetlo)
+ausmachen (Licht) = zhasnúť (svetlo)
+einschalten (Gerät) = zapnúť (prístroj)
+ausschalten (Gerät) = vypnúť(prístroj)
+aufmachen (Fenster) = otvoriť (okno)
+zumachen (Fenster) = zatvoriť (okno)
+ausfüllen (Formular)  = vyplniť (formulár)
+einkaufen = nakupovať
+verkaufen = predávať
+aufstehen = vstávať
