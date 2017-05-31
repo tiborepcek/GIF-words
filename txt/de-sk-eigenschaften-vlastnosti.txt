@@ -1,6 +1,6 @@
 vlastnosť = die Eigenschaft
 vlastnosti = die Eigenschaften
-nízký = niedrig
+nízky = niedrig
 vysoký = hoch
 chudý = dünn
 tučný = dick
