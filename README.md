@@ -4,7 +4,7 @@ Pohyblivé GIF obrázky, na ktorých sa každé 3 sekundy strieda slovo v dvoch 
 
 ## Čo potrebuješ
 
-Ak sa chceš rovno učiť, môžeš [pozerať obrázky](https://github.com/tiborepcek/GIF-words/tree/master/gif) alebo [čítať text](https://github.com/tiborepcek/GIF-words/tree/master/txt) a ďalej už čítať nemusíš. Ak ťa zujíma aj technikcé pozadie, potrebuješ:
+Ak sa chceš rovno učiť, môžeš [pozerať obrázky](https://github.com/tiborepcek/GIF-words/tree/master/gif) alebo [čítať text](https://github.com/tiborepcek/GIF-words/tree/master/txt) a ďalej už čítať nemusíš. Ak ťa zujíma aj technická stránka, potrebuješ:
 
 1. [ImageMagic](http://imagemagick.org/)
 2. [AutoIt](https://autoitscript.com/) (na Linuxe cez [Wine](https://winehq.org/))
